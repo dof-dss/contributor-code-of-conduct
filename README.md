@@ -1,3 +1,6 @@
+<img src="digital-shared-services.png"/> 
+<hr/>
+
 # Code of conduct for `dof-dss`
 
 Contributors to repositories hosted in `dof-dss` are expected to
